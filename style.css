@@ -47,6 +47,8 @@ h1 {
 }
 
 .cell {
+  width: 70px;
+  height: 70px;
   background: #fff;
   border: 2px solid #ddd;
   font-size: 2rem;
